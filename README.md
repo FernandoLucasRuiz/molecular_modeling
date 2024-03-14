@@ -1,1 +1,1 @@
-# molecular_modeling
+# molecular-modeling
